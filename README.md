@@ -100,10 +100,10 @@ Existem tópicos que apesar de não serem essenciais na formação de Matemátic
 
 Antes de começar a estudar é importante que você aprenda algumas coisas importantes. Ser autodidata não é sobre aprender sozinho, nem sobre não estar vinculado à uma Instituição de Ensino Superior (IES), mas sobre **ser responsável pelo seu próprio ensino** e isso é algo que exige saber como estudar, o quanto estudar, como organizar seus estudos... e para isso recomendamos os seguintes conteúdos abaixo.
 
-Curso | Duração | Dedicação | Conteúdos
+Curso | Duração | Dedicação | Conteúdos | Status
 :-- | :--: | :--: | :--: 
-[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | 3 Semanas | 5 horas/semana | Memória; Técnicas de estudo; Recursos de estudo.
-[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 3 Semanas | 2 horas/semana | Tempo; Técnica; Discussão.
+[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | 3 Semanas | 5 horas/semana | Memória; Técnicas de estudo; Recursos de estudo. | Concluido 
+[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 3 Semanas | 2 horas/semana | Tempo; Técnica; Discussão. |
 
 ¹ Disponível com legendas em Português.
 
@@ -112,13 +112,13 @@ Curso | Duração | Dedicação | Conteúdos
 # Currículo
 
 ## Introdução ao Cálculo e a Matemática
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Status
 :-- | :--: | :--: | :--: | :--:
-[Ingredientes básicos para o Cálculo](https://www.youtube.com/playlist?list=PL2xox8ncv81W698VTHptmp7ZNvcKqlyHO) | 7 Semanas | 1/2 horas/semana | Funções, Contatos, Trigonometria, Exponencial e Logaritmo. | -
-[Teoria dos Conjuntos](https://www.youtube.com/playlist?list=PL2xox8ncv81X2Cp3FClIjRE9sG_Vq6sZ_) | 7 Semanas | 4 horas/semana | Conjuntos, Numéricos, Finitos, Enumeráveis e Operações. | -
-[Lógica e Matemática Discreta](https://www.youtube.com/playlist?list=PLxI8Can9yAHf6oB0nf8FwLhqSOcBLqOxH) ([alt](https://integra.univesp.br/courses/2658)) | 8 Semanas | 2 horas/semana | Teoria dos Conjuntos; assunto. | -
-[Geometria Analítica](https://www.youtube.com/playlist?list=PLxI8Can9yAHcSZv2BBUJAfGsXx0D0hn-2) ([alt](https://integra.univesp.br/courses/2802))| 7 Semanas | 4 horas/semana | Retas; Plano Cartesiano; Coordenadas. | -
-[Algoritmos e Programação em Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | 8 Semanas | 2 horas/semana | Python; Programação; Algoritmos. | -
+[Ingredientes básicos para o Cálculo](https://www.youtube.com/playlist?list=PL2xox8ncv81W698VTHptmp7ZNvcKqlyHO) | 7 Semanas | 1/2 horas/semana | Funções, Contatos, Trigonometria, Exponencial e Logaritmo. | -  |
+[Teoria dos Conjuntos](https://www.youtube.com/playlist?list=PL2xox8ncv81X2Cp3FClIjRE9sG_Vq6sZ_) | 7 Semanas | 4 horas/semana | Conjuntos, Numéricos, Finitos, Enumeráveis e Operações. | - | Iniciado 02/09/2023
+[Lógica e Matemática Discreta](https://www.youtube.com/playlist?list=PLxI8Can9yAHf6oB0nf8FwLhqSOcBLqOxH) ([alt](https://integra.univesp.br/courses/2658)) | 8 Semanas | 2 horas/semana | Teoria dos Conjuntos; assunto. | - |
+[Geometria Analítica](https://www.youtube.com/playlist?list=PLxI8Can9yAHcSZv2BBUJAfGsXx0D0hn-2) ([alt](https://integra.univesp.br/courses/2802))| 7 Semanas | 4 horas/semana | Retas; Plano Cartesiano; Coordenadas. | - |
+[Algoritmos e Programação em Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) | 8 Semanas | 2 horas/semana | Python; Programação; Algoritmos. | - | Concluído
 
 ## Aprofundamento no Cálculo e Início da Física Geral
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
