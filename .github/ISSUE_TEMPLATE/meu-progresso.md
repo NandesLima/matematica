@@ -9,18 +9,50 @@ assignees: ''
 ## Bem-vindo(a) ao seu Rastreador de Progresso!
 Marque as caixinhas conforme você avança no currículo. Bom estudo! 🚀
 
-### Técnicas de estudo, organização e aprendizagem
+### 🧠 Técnicas de Estudo e Aprendizado
+- [ ] Aprendendo a aprender
+- [ ] Como estudar do jeito certo
 
-### Revisão dos Conteúdos do Ensino Médio
+### 📐 Módulo 1: Revisão do Ensino Médio
 
-### Introdução ao Cálculo e a Matemática
+### 🧮 Módulo 2: Introdução ao Cálculo e a Matemática
+- [ ] Ingredientes básicos para o Cálculo
+- [ ] Teoria dos Conjuntos
+- [ ] Lógica e Matemática Discreta
+- [ ] Geometria Analítica
+- [ ] Algoritmos e Programação em Python
 
-### Aprofundamento no Cálculo e Início da Física Geral
+### 🌌 Módulo 3: Aprofundamento e Início da Física
+- [ ] Cálculo I
+- [ ] Projeto e Análise de Algoritmos
+- [ ] Álgebra Linear
+- [ ] Álgebra Linear (avançada)
+- [ ] Teoria dos Números
 
-### Aprofundamento no Cálculo e Física
+### 🎢 Módulo 4: Cálculo Avançado e Física Clássica
+- [ ] Cálculo II
+- [ ] Estruturas Algébricas
+- [ ] Equações Diferenciais Ordinárias
+- [ ] Física Geral I
+- [ ] História da Matemática
 
-### Cálculo e Física Avançado
+### ⚡ Módulo 5: Eletromagnetismo e Equações Diferenciais
+- [ ] Cálculo III
+- [ ] Física Geral II
+- [ ] Estatística e Probabilidade
+- [ ] Programação Linear
+- [ ] Análise na Reta
 
-### Tópicos Matemáticos
+### 🔮 Módulo 6: Tópicos Matemáticos
+- [ ] Cálculo IV (Métodos Matemáticos)
+- [ ] Introdução a Topologia Geral
+- [ ] Cálculo com variável complexa
+- [ ] Teoria dos Grafos
+- [ ] Física Geral III
 
-### Teoria Avançada
+### 🏆 Módulo 7: Teoria Avançada
+- [ ] Alfabetização em anéis
+- [ ] Física Moderna
+- [ ] Teoria de Corpos
+- [ ] Análise Complexa
+- [ ] Equações Diferenciais Parciais
