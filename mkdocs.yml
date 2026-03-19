@@ -1,6 +1,6 @@
-site_name: Universidade de Matemática Autodidata
+site_name: Matemática OSSU
 site_url: https://NandesLima.github.io/matematica/
-site_description: Um caminho open-source para educação autodidata em matemática.
+site_description: Um caminho open-source para educação autodidata em Matemática.
 theme:
   name: material
   features:
@@ -8,6 +8,8 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+    - navigation.tabs
+    - navigation.expand
   palette:
     - scheme: slate
       primary: black
@@ -19,19 +21,11 @@ theme:
 extra_css:
   - stylesheets/custom.css
   - stylesheets/global-modern.css
-extra_javascript:
-  - javascripts/progress.js
 
 nav:
   - 'Início': index.md
-  - 'Técnicas de estudo, organização e aprendizagem': 01-tecnicas-de-estudo-organizacao-e-aprendizagem.md
-  - 'Revisão dos Conteúdos do Ensino Médio': 02-revisao-dos-conteudos-do-ensino-medio.md
-  - 'Introdução ao Cálculo e a Matemática': 03-introducao-ao-calculo-e-a-matematica.md
-  - 'Aprofundamento no Cálculo e Início da Física Geral': 04-aprofundamento-no-calculo-e-inicio-da-fisica-geral.md
-  - 'Aprofundamento no Cálculo e Física': 05-aprofundamento-no-calculo-e-fisica.md
-  - 'Cálculo e Física Avançado': 06-calculo-e-fisica-avancado.md
-  - 'Tópicos Matemáticos': 07-topicos-matematicos.md
-  - 'Teoria Avançada': 08-teoria-avancada.md
+  - 'Currículo': README.md
+  - 'Sobre': README.md
 
 markdown_extensions:
   - pymdownx.highlight
